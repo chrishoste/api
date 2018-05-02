@@ -4,7 +4,6 @@
     { "id": 2, "title": "Location 2", "coordinates": {"longitude": 48.746117, "latitude": 9.112419} },
     { "id": 3, "title": "Location 3", "coordinates": {"longitude": 48.734043, "latitude": 9.088978} },
     { "id": 4, "title": "Location 4", "coordinates": {"longitude": 48.752036, "latitude": 9.085544} },
-    { "id": 5, "title": "Location 5", "coordinates": {"longitude": 48.726672, "latitude": 9.113353} },
     { "id": 9, "title": "Location 9", "coordinates": {"longitude": 48.743867, "latitude": 9.130830} }
   ],
   "newsfeed": [
