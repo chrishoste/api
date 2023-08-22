@@ -12,10 +12,10 @@
         "officeLevel": "5",
         "fact": {
             "images": [
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600"
+                "https://picsum.photos/id/1/1000/600",
+                "https://picsum.photos/id/20/1000/600",
+                "https://picsum.photos/id/42/1000/600",
+                "https://picsum.photos/id/48/1000/600"
             ],
             "text": "Did you know that the first computer programmer was Ada Lovelace, who wrote the first algorithm intended to be carried out by a machine? She's often considered the world's first computer programmer.",
             "title": "Computer Science Fact"
@@ -46,10 +46,10 @@
         "officeLevel": "5",
         "fact": {
             "images": [
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600"
+                "https://picsum.photos/id/1/1000/600",
+                "https://picsum.photos/id/20/1000/600",
+                "https://picsum.photos/id/42/1000/600",
+                "https://picsum.photos/id/48/1000/600"
             ],
             "text": "Did you know that the concept of virtual reality dates back to the 1960s? Ivan Sutherland and his student created the first head-mounted display and a computer-generated graphical environment, laying the foundation for modern VR.",
             "title": "Computer Science Fact"
@@ -72,10 +72,10 @@
         "officeLevel": "4",
         "fact": {
             "images": [
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600"
+                "https://picsum.photos/id/1/1000/600",
+                "https://picsum.photos/id/20/1000/600",
+                "https://picsum.photos/id/42/1000/600",
+                "https://picsum.photos/id/48/1000/600"
             ],
             "text": "Computers process data using a binary system, representing information using only two digits: 0 and 1. This forms the basis of all digital information processing and storage.",
             "title": "Computer Science Fact"
@@ -90,10 +90,10 @@
         "officeLevel": "4",
         "fact": {
             "images": [
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600"
+                "https://picsum.photos/id/1/1000/600",
+                "https://picsum.photos/id/20/1000/600",
+                "https://picsum.photos/id/42/1000/600",
+                "https://picsum.photos/id/48/1000/600"
             ],
             "text": "Algorithms are the instructions that computers follow to solve problems and perform tasks. They are fundamental to computer science and are used in everything from search engines to self-driving cars.",
             "title": "Computer Science Fact"
@@ -108,10 +108,10 @@
         "officeLevel": "4",
         "fact": {
             "images": [
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600"
+                "https://picsum.photos/id/1/1000/600",
+                "https://picsum.photos/id/20/1000/600",
+                "https://picsum.photos/id/42/1000/600",
+                "https://picsum.photos/id/48/1000/600"
             ],
             "text": "Encryption is a crucial aspect of cybersecurity. It involves transforming information into a code to prevent unauthorized access. Modern encryption methods play a vital role in securing online communication and data.",
             "title": "Computer Science Fact"
@@ -134,10 +134,10 @@
         "officeLevel": "4",
         "fact": {
             "images": [
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600"
+                "https://picsum.photos/id/1/1000/600",
+                "https://picsum.photos/id/20/1000/600",
+                "https://picsum.photos/id/42/1000/600",
+                "https://picsum.photos/id/48/1000/600"
             ],
             "text": "Artificial Intelligence (AI) involves creating computer systems that can perform tasks that usually require human intelligence. Machine learning, a subset of AI, enables computers to learn from data and improve their performance over time.",
             "title": "Computer Science Fact"
@@ -160,10 +160,10 @@
         "officeLevel": "4",
         "fact": {
             "images": [
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600"
+                "https://picsum.photos/id/1/1000/600",
+                "https://picsum.photos/id/20/1000/600",
+                "https://picsum.photos/id/42/1000/600",
+                "https://picsum.photos/id/48/1000/600"
             ],
             "text": "Blockchain is a distributed and tamper-proof digital ledger technology. It's known for its use in cryptocurrencies like Bitcoin, but its applications extend to various industries, including supply chain management and finance.",
             "title": "Computer Science Fact"
@@ -178,10 +178,10 @@
         "officeLevel": "4",
         "fact": {
             "images": [
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600"
+                "https://picsum.photos/id/1/1000/600",
+                "https://picsum.photos/id/20/1000/600",
+                "https://picsum.photos/id/42/1000/600",
+                "https://picsum.photos/id/48/1000/600"
             ],
             "text": "The internet is a global network of interconnected computers and servers that share information using protocols like TCP/IP. Its development has revolutionized communication, information sharing, and business worldwide.",
             "title": "Computer Science Fact"
@@ -204,10 +204,10 @@
         "officeLevel": "4",
         "fact": {
             "images": [
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600"
+                "https://picsum.photos/id/1/1000/600",
+                "https://picsum.photos/id/20/1000/600",
+                "https://picsum.photos/id/42/1000/600",
+                "https://picsum.photos/id/48/1000/600"
             ],
             "text": "Cloud computing allows users to access and use computing resources over the internet, eliminating the need for physical hardware. It has enabled scalable and flexible solutions for businesses and individuals.",
             "title": "Computer Science Fact"
@@ -262,10 +262,10 @@
         "officeLevel": "4",
         "fact": {
             "images": [
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600",
-                "https://picsum.photos/1000/600"
+                "https://picsum.photos/id/1/1000/600",
+                "https://picsum.photos/id/20/1000/600",
+                "https://picsum.photos/id/42/1000/600",
+                "https://picsum.photos/id/48/1000/600"
             ],
             "text": "The future of computing lies in quantum computing, which leverages the principles of quantum mechanics to perform calculations exponentially faster than classical computers. It has the potential to revolutionize fields like cryptography and material science.",
             "title": "Computer Science Fact"
