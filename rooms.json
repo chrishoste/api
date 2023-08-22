@@ -1,0 +1,274 @@
+[
+    {
+        "roomNumber": "4.1-04",
+        "officeLevel": "4",
+        "name": "Innovation Hub",
+        "department": "research",
+        "type": "public",
+        "id": "3DS8rJR6sXlIuRgMv5nZ"
+    },
+    {
+        "roomNumber": "5.1-09",
+        "officeLevel": "5",
+        "fact": {
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_7.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_8.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_9.jpg?alt=media"
+            ],
+            "text": "Did you know that the first computer programmer was Ada Lovelace, who wrote the first algorithm intended to be carried out by a machine? She's often considered the world's first computer programmer.",
+            "title": "Computer Science Fact"
+        },
+        "name": "Research and Development Team",
+        "department": "research",
+        "type": "team",
+        "id": "3ebumztWsCslxWUc0U1Q"
+    },
+    {
+        "roomNumber": "lobby",
+        "officeLevel": "1",
+        "name": "Digital Lounge",
+        "department": "all",
+        "type": "public",
+        "id": "3vN4wUF7bSjJ2NRzVSAO"
+    },
+    {
+        "roomNumber": "kitchen-05",
+        "officeLevel": "5",
+        "name": "Coding Kitchen",
+        "department": "engineering",
+        "type": "public",
+        "id": "6rYEskWN5Q08pbwJzWkI"
+    },
+    {
+        "roomNumber": "5.2-18",
+        "officeLevel": "5",
+        "fact": {
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_19.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_20.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_21.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_31.jpg?alt=media"
+            ],
+            "text": "Did you know that the concept of virtual reality dates back to the 1960s? Ivan Sutherland and his student created the first head-mounted display and a computer-generated graphical environment, laying the foundation for modern VR.",
+            "title": "Computer Science Fact"
+        },
+        "name": "VR Development Team",
+        "department": "research",
+        "type": "team",
+        "id": "B4VSO2yuXyZyptcV6aXd"
+    },
+    {
+        "roomNumber": "5.2-01",
+        "officeLevel": "5",
+        "name": "AI Strategy Room",
+        "type": "meeting",
+        "department": "research",
+        "id": "BgX86SbN0UifijkwU8HZ"
+    },
+    {
+        "roomNumber": "4.2-08",
+        "officeLevel": "4",
+        "fact": {
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_1.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_2.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_3.jpg?alt=media"
+            ],
+            "text": "Computers process data using a binary system, representing information using only two digits: 0 and 1. This forms the basis of all digital information processing and storage.",
+            "title": "Computer Science Fact"
+        },
+        "name": "Binary Coders",
+        "department": "engineering",
+        "type": "team",
+        "id": "HiGiRTKsRqSHa6ZNVRRo"
+    },
+    {
+        "roomNumber": "4.2-03/04/05",
+        "officeLevel": "4",
+        "fact": {
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_4.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_5.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_6.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_29.jpg?alt=media"
+            ],
+            "text": "Algorithms are the instructions that computers follow to solve problems and perform tasks. They are fundamental to computer science and are used in everything from search engines to self-driving cars.",
+            "title": "Computer Science Fact"
+        },
+        "name": "Algorithm Wizards",
+        "type": "team",
+        "department": "engineering",
+        "id": "T2DPHY4mVSJDilHA8BsP"
+    },
+    {
+        "roomNumber": "4.2-06",
+        "officeLevel": "4",
+        "fact": {
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_26.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_27.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_28.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_30.jpg?alt=media"
+            ],
+            "text": "Encryption is a crucial aspect of cybersecurity. It involves transforming information into a code to prevent unauthorized access. Modern encryption methods play a vital role in securing online communication and data.",
+            "title": "Computer Science Fact"
+        },
+        "name": "Cybersecurity Guardians",
+        "type": "team",
+        "department": "engineering",
+        "id": "XGhtx9ud4IpzjdjVIBIY"
+    },
+    {
+        "roomNumber": "5.2-02",
+        "officeLevel": "5",
+        "name": "Data Insights Hub",
+        "type": "meeting",
+        "department": "research",
+        "id": "XgPSfCeqe7chCovJFuQI"
+    },
+    {
+        "roomNumber": "4.2-02",
+        "officeLevel": "4",
+        "fact": {
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_16.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_17.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_18.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_32.jpg?alt=media"
+            ],
+            "text": "Artificial Intelligence (AI) involves creating computer systems that can perform tasks that usually require human intelligence. Machine learning, a subset of AI, enables computers to learn from data and improve their performance over time.",
+            "title": "Computer Science Fact"
+        },
+        "name": "AI Lab",
+        "department": "research",
+        "type": "team",
+        "id": "YLY8rqeHk92MbUG7vhgb"
+    },
+    {
+        "roomNumber": "atrium",
+        "officeLevel": "4",
+        "name": "Tech Atrium",
+        "department": "all",
+        "type": "public",
+        "id": "dxxFqK5RxlwEESrkJFit"
+    },
+    {
+        "roomNumber": "4.2-01",
+        "officeLevel": "4",
+        "fact": {
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_13.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_14.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_15.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_33.jpg?alt=media"
+            ],
+            "text": "Blockchain is a distributed and tamper-proof digital ledger technology. It's known for its use in cryptocurrencies like Bitcoin, but its applications extend to various industries, including supply chain management and finance.",
+            "title": "Computer Science Fact"
+        },
+        "name": "Blockchain Lab",
+        "type": "team",
+        "department": "research",
+        "id": "hhg4lVvAIQAJrRY44oqH"
+    },
+    {
+        "roomNumber": "4.1-01",
+        "officeLevel": "4",
+        "fact": {
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_22.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_23.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_24.jpg?alt=media"
+            ],
+            "text": "The internet is a global network of interconnected computers and servers that share information using protocols like TCP/IP. Its development has revolutionized communication, information sharing, and business worldwide.",
+            "title": "Computer Science Fact"
+        },
+        "name": "Network Operations Center",
+        "type": "team",
+        "department": "research",
+        "id": "mffouppc9Z9QDsf9jNnK"
+    },
+    {
+        "roomNumber": "cafeteria",
+        "officeLevel": "4",
+        "name": "Tech Cafeteria",
+        "department": "all",
+        "type": "public",
+        "id": "nPwdeRwpLpyCoVzV4wct"
+    },
+    {
+        "roomNumber": "4.1-15",
+        "officeLevel": "4",
+        "fact": {
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_10.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_11.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_12.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_34.jpg?alt=media"
+            ],
+            "text": "Cloud computing allows users to access and use computing resources over the internet, eliminating the need for physical hardware. It has enabled scalable and flexible solutions for businesses and individuals.",
+            "title": "Computer Science Fact"
+        },
+        "name": "Cloud Innovators",
+        "department": "research",
+        "type": "team",
+        "id": "nWxJbIMhfjspKBLD6z7f"
+    },
+    {
+        "roomNumber": "4.2-09/10",
+        "officeLevel": "4",
+        "name": "System Architects",
+        "type": "team",
+        "department": "engineering",
+        "id": "oVkLCuXIEURo1r6qrFuZ"
+    },
+    {
+        "roomNumber": "5.1-07",
+        "officeLevel": "5",
+        "name": "Mindfulness Oasis",
+        "department": "all",
+        "type": "public",
+        "id": "owOEuEIsf4o8Mo4PEsBl"
+    },
+    {
+        "roomNumber": "4.11",
+        "officeLevel": "4",
+        "name": "Data Lab",
+        "department": "data",
+        "type": "team",
+        "id": "pfnnlgD2WiyoFGMAD5cW"
+    },
+    {
+        "roomNumber": "4.1-02",
+        "officeLevel": "4",
+        "name": "Strategy Exchange",
+        "type": "meeting",
+        "department": "research",
+        "id": "pnbSCXAoymIxrgLf4M6G"
+    },
+    {
+        "roomNumber": "5.1-03",
+        "officeLevel": "5",
+        "name": "Innovation Think Tank",
+        "type": "meeting",
+        "department": "research",
+        "id": "rmZxWS8sYmJGOi3aYteG"
+    },
+    {
+        "roomNumber": "4.1-05",
+        "officeLevel": "4",
+        "fact": {
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_22.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_23.jpg?alt=media",
+                "https://firebasestorage.googleapis.com/v0/b/lv-trialwork.appspot.com/o/rooms%2FIMG_24.jpg?alt=media"
+            ],
+            "text": "The future of computing lies in quantum computing, which leverages the principles of quantum mechanics to perform calculations exponentially faster than classical computers. It has the potential to revolutionize fields like cryptography and material science.",
+            "title": "Computer Science Fact"
+        },
+        "name": "Quantum Lab",
+        "type": "team",
+        "department": "research",
+        "id": "vpCKoH3ckbUr3uQzsAjT"
+    }
+]
